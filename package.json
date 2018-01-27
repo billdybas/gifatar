@@ -1,0 +1,22 @@
+{
+  "name": "gifatar",
+  "version": "1.0.0",
+  "description": "A Twitter Bot for Slow Gif Avatars",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billdybas/gifatar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/billdybas/gifatar/issues"
+  },
+  "homepage": "https://github.com/billdybas/gifatar#readme",
+  "license": "MIT",
+  "dependencies": {
+    "gif-frames": "^0.4.0",
+    "twit": "^2.2.9"
+  }
+}
