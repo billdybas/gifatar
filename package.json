@@ -16,7 +16,14 @@
   "homepage": "https://github.com/billdybas/gifatar#readme",
   "license": "MIT",
   "dependencies": {
+    "envalid": "^4.1.2",
     "gif-frames": "^0.4.0",
     "twit": "^2.2.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-node": "^5.2.1",
+    "standard": "^10.0.3"
   }
 }
