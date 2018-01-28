@@ -1,10 +1,11 @@
 {
   "name": "gifatar",
   "version": "1.0.0",
-  "description": "A Twitter Bot for Slow Gif Avatars",
+  "description": "A Twitter Bot for Slow GIF Avatars",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "NODE_ENV=production node server.js",
+    "start-dev": "node server.js"
   },
   "repository": {
     "type": "git",
