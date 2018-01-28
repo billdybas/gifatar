@@ -1,7 +1,5 @@
 ![](https://user-images.githubusercontent.com/13719429/35479625-0b0da026-03ca-11e8-9d93-aa93dc32b713.png)
 
-<p style="text-align: center;">A Twitter Bot for Slow GIF Avatars</p>
-
 ## About
 
 [Twitter doesn't let you make your avatar a GIF.](https://www.buzzfeed.com/katienotopoulos/the-real-reason-twitter-doesnt-allow-gif-avatars)
