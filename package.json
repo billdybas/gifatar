@@ -1,5 +1,6 @@
 {
   "name": "gifatar",
+  "private": true,
   "version": "1.0.0",
   "description": "A Twitter Bot for Slow GIF Avatars",
   "main": "server.js",
@@ -17,6 +18,7 @@
   "homepage": "https://github.com/billdybas/gifatar#readme",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "envalid": "^4.1.2",
     "gif-frames": "^0.4.0",
     "mkdirp": "^0.5.1",
