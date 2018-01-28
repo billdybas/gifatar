@@ -18,6 +18,8 @@
   "dependencies": {
     "envalid": "^4.1.2",
     "gif-frames": "^0.4.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2",
     "twit": "^2.2.9"
   },
   "devDependencies": {
